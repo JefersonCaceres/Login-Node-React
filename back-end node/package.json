@@ -1,0 +1,32 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "Login of users",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonCaceres/bingo-buda.git"
+  },
+  "author": "\"Jefferson Caceres\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefersonCaceres/bingo-buda/issues"
+  },
+  "homepage": "https://github.com/JefersonCaceres/bingo-buda#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
