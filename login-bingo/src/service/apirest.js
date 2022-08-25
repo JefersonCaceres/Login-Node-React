@@ -1,0 +1,1 @@
+export const apiUrlNode="http://localhost:3030/api/auth/";
